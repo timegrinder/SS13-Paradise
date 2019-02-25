@@ -43,7 +43,7 @@ var/round_start_time = 0
 	login_music = pick(\
 	'sound/music/thunderdome.ogg',\
 	'sound/music/space.ogg',\
-	'sound/music/title1.ogg',\
+	'sound/music/title1.it',\
 	'sound/music/title2.ogg',\
 	'sound/music/title3.ogg',)
 	do

@@ -2,7 +2,7 @@ sound/music/b12_combined_start.ogg
 sound/music/main.ogg
 sound/music/THUNDERDOME.ogg
 sound/music/space.ogg
-sound/music/title1.ogg
+sound/music/title1.it
 sound/music/title2.ogg
 sound/music/title3.ogg
 sound/music/traitor.ogg

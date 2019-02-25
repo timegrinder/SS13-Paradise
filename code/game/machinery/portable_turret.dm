@@ -643,7 +643,7 @@ var/list/turret_icons
 	if(stat & BROKEN)
 		return
 	set_raised_raising(raised, 1)
-	playsound(get_turf(src), 'sound/effects/turret/open.wav', 60, 1)
+	playsound(get_turf(src), 'sound/effects/turret/open.ogg', 60, 1)
 	update_icon()
 
 	var/atom/flick_holder = new /atom/movable/porta_turret_cover(loc)
@@ -664,7 +664,7 @@ var/list/turret_icons
 	if(stat & BROKEN)
 		return
 	set_raised_raising(raised, 1)
-	playsound(get_turf(src), 'sound/effects/turret/open.wav', 60, 1)
+	playsound(get_turf(src), 'sound/effects/turret/open.ogg', 60, 1)
 	update_icon()
 
 	var/atom/flick_holder = new /atom/movable/porta_turret_cover(loc)
